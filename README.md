@@ -1,2 +1,4 @@
 # paper_review
-paper review, almost is NLP paper
+paper review
+
+Most of Domain is NLP, Business Intelligence
