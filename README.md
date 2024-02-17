@@ -9,15 +9,15 @@
 > HuggingFace 라이브러리를 주로 사용하여 구현합니다.
 
 
-## NLP
+## :point_down: NLP
 - GRU (RNN Encoder-Decoder)
 - ELMo
 - Transformer
 - BERT
 - LoRA
 - RAG
-## Computer Vision
+## :point_down: Computer Vision
 
-## Mulit Modal
+## :point_down: Mulit Modal
 
-## Business Intelligence
+## :point_down: Business Intelligence
