@@ -1,6 +1,6 @@
 # :star_struck: Paper Review :+1:
 
-**Paper Review는 NLP, Computer Vision, Multi Modal 등의 학술 논문에 대한 설명 및 코드를 업로드하는 프로젝트입니다.**      
+**Paper Review는 NLP, Computer Vision, Multi Modal 등의 학술 논문에 대한 설명 및 코드를 업로드하는 저장소입니다.**      
    
 **논문에 대한 공부 및 설명 pdf를 첨부합니다.**      
    
