@@ -1,4 +1,14 @@
 # paper_review
-paper review
 
-Most of Domain is NLP, Business Intelligence
+## NLP
+- GRU (RNN Encoder-Decoder)
+- ELMo
+- Transformer
+- BERT
+- LoRA
+- RAG
+## Computer Vision
+
+## Mulit Modal
+
+## Business Intelligence
