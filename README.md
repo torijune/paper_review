@@ -21,7 +21,7 @@
 
 ## :point_down: Mulit Modal
 
-## :point_down: [Business Intelligence](/paper_review/Business 20Intelligence/)
+## :point_down: [Business Intelligence](/paper_review/Business Intelligence/)
 
 - AHP
 - DEA
