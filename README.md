@@ -17,7 +17,7 @@
 - BERT
 - LoRA
 - RAG
-## :point_down: Computer Vision
+## :point_down: [Computer Vision](/CV/)
 
 ## :point_down: Mulit Modal
 
