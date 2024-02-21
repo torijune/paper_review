@@ -1,6 +1,6 @@
 # :star_struck: Paper Review :+1:
 
-**Paper Review는 NLP, Computer Vision, Multi Modal 등의 학술 논문에 대한 설명 및 코드를 업로드하는 저장소입니다.**      
+**Paper Review는 NLP, Computer Vision, Multi Modal, Business Intelligence등에 대한 학술 논문에 대한 설명 및 코드를 업로드하는 저장소입니다.**      
 
 <img src="https://github.com/torijune/paper_review/assets/128570787/eadb98a5-5534-4c1f-ba6b-0ecec29107f9" width="100">
    
