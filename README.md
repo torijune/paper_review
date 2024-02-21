@@ -17,6 +17,8 @@
 - BERT
 - LoRA
 - RAG
+- LangChain
+- Blending
 ## :point_down: [Computer Vision](/CV/)
 
 ## :point_down: Mulit Modal
