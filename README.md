@@ -21,7 +21,7 @@
 - Blending
 ## :point_down: [Computer Vision](/CV/)
 
-## :point_down: [Mulit Modal](/Multi Modal/)
+## :point_down: [Multi Modal](/Multi_Modal/)
 
 ## :point_down: [Business Intelligence](/Business_Intelligence/)
 
