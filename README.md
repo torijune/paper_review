@@ -11,7 +11,7 @@
 > HuggingFace 라이브러리를 주로 사용하여 구현합니다.
 
 ## :point_down: [NLP](/NLP/)
-- [GRU (RNN Encoder-Decoder)](paper_review/NLP/GRU/)
+- [GRU (RNN Encoder-Decoder)](/GRU/)
 - ELMo
 - Transformer
 - BERT
