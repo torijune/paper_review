@@ -21,7 +21,7 @@
 - Blending
 - Chain of Thought
    - CoT
-   - Zero-shot CoT
+   - Zero-Shot CoT
    - Auto CoT
 ## :point_down: [Computer Vision](/CV/)
 
