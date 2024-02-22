@@ -19,6 +19,10 @@
 - RAG
 - LangChain
 - Blending
+- Chain of Thought
+   - CoT
+   - Zero-shot CoT
+   - Auto CoT
 ## :point_down: [Computer Vision](/CV/)
 
 ## :point_down: [Multi Modal](/Multi_Modal/)
